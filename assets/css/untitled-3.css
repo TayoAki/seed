@@ -1,0 +1,21 @@
+a, a:hover {
+  color: #ffffff;
+}
+
+a:hover {
+  /*color: #d33311;*/
+  /*text-decoration: underline;*/
+}
+
+a:hover {
+  /*color: #ffffff;*/
+  /*text-decoration: underline;*/
+}
+
+a, a:hover {
+  /*color: #ffffff;*/
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
+}
+
